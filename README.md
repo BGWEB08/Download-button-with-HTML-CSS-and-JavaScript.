@@ -12,4 +12,4 @@ Animated Button The project creates a fill animation when the button is clicked.
 
 ## Demo
 
-![## Animated Button Image]([/path/to/your/animation.gif](https://github.com/BGWEB08/README.md-IMAGES/blob/main/JavaScript%20Trials/Download%20Button/downloadbutton-img.png?raw=true))
+![Download Button Image](https://github.com/BGWEB08/README.md-IMAGES/blob/main/JavaScript%20Trials/Download%20Button/downloadbutton-img.png?raw=true)
